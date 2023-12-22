@@ -16,7 +16,7 @@ a:hover { color: #AA0001; background: inherit; text-decoration: underline; }
 p { margin: 0 0 15px 0; }
 h1 {  margin: 20px 0 0; }
 h1 a { background: inherit; }
-img { border: 0; }
+img { border: 0; max-height:720px; max-width:640px; }
 h2 { font: normal 1.6em "Trebuchet MS", Arial, Sans-Serif; margin: 0 0 12px; }
 h3 a { font-size: 2em; }
 #main h3 a { font-size: .84em; color: #808080; font-weight: normal; text-transform: uppercase; }
