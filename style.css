@@ -18,7 +18,7 @@ h1 {  margin: 20px 0 0; }
 h1 a { background: inherit; }
 img { border: 0; }
 h2 { font: normal 1.6em "Trebuchet MS", Arial, Sans-Serif; margin: 0 0 12px; }
-h3 a { font-size: 1em; }
+h3 a { font-size: 2em; }
 #main h3 a { font-size: .84em; color: #808080; font-weight: normal; text-transform: uppercase; }
 
 #content { width: 940px; margin: 0 auto; padding: 20px 0 0 0; border-top: 5px solid #eee; }
