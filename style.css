@@ -13,13 +13,13 @@ body {
 
 a {	color: #E60000;	background: inherit; text-decoration: none; }
 a:hover { color: #AA0001; background: inherit; text-decoration: underline; }
-p { margin: 0 0 50px 0; }
+p { margin: 0 0 100px 0; }
 h1 {  margin: 20px 0 0; }
 h1 a { background: inherit; }
 img { border: 0; width: 30%; height: auto; }
 h2 { font: normal 1.6em "Trebuchet MS", Arial, Sans-Serif; margin: 0 0 12px; }
 h3 a { font-size: 3em; }
-#main h3 a { font-size: .84em; color: #808080; font-weight: normal; text-transform: uppercase; }
+#main h3 a { font-size: 3em; color: #808080; font-weight: normal; text-transform: uppercase; }
 
 #content { width: 940px; margin: 0 auto; padding: 20px 0 0 0; border-top: 5px solid #eee; }
 
